@@ -5,4 +5,7 @@ module.exports = {
     mocha: {
         // reporter: require("./mocha-reporter"),
     },
+    solc: {
+      version: "0.6.2"
+    }
 };
